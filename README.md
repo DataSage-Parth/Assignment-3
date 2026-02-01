@@ -6,6 +6,7 @@ A Python program that calculates the factorial of a given number using an iterat
 
 ### 🔹 Features:
 - Validates negative inputs for better results
+- Quick calculation taking lesser space
 - Uses a loop to compute factorial
 - Accepts user input
 ## ✅ Task 2: Math Module Calculations in Python
